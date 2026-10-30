@@ -38,7 +38,7 @@ Las historias siguen En Progreso hasta cumplir sus criterios de aceptación, por
 
 ## Forma de trabajo con Git
 
-Después del commit inicial, cada cambio se hizo en una rama secundaria y entró a `main` por Pull Request. La revisión de los Pull Requests la hizo la propia autora, porque el trabajo es individual, siguiendo la indicación de la cátedra en el foro. Cada PR describe el cambio, y los de la Entrega 4 referencian su issue. En el PR del diagrama BPMN (#5) y en el del README, la revisión quedó en un checklist en la descripción y en comentarios sobre las líneas revisadas.
+Después del commit inicial, cada cambio se hizo en una rama secundaria y entró a `main` por Pull Request. La revisión de los Pull Requests la hizo la propia autora, porque el trabajo es individual, siguiendo la indicación de la cátedra en el foro. Cada PR describe el cambio, y los de la Entrega 4 referencian su issue. En el PR del diagrama BPMN (#5), la revisión quedó en un checklist en la descripción y en comentarios sobre las líneas revisadas.
 
 ## Declaración de Uso de IA
 
